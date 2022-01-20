@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horner 2.0", "Horner 2.0\Horner 2.0.csproj", "{8E90DB0F-5B78-46AC-9DCF-370C988919DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E90DB0F-5B78-46AC-9DCF-370C988919DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E90DB0F-5B78-46AC-9DCF-370C988919DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E90DB0F-5B78-46AC-9DCF-370C988919DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E90DB0F-5B78-46AC-9DCF-370C988919DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21965EB-50A4-410C-AED5-C0FA5A53052B}
+	EndGlobalSection
+EndGlobal
